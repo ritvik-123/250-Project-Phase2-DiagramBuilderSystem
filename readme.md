@@ -1,5 +1,5 @@
-Graph Editing Software - README
-===============================
+Graph Editing Software - README (phase 2)
+=========================================
 
 Overview:
 ---------
